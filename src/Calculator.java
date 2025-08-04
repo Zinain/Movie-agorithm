@@ -48,9 +48,8 @@ public class Calculator {
             totalPoints = 0.0;
         }
         else{
-            totalPoints += genreMap.get(genre);
+            totalPoints += genreMap.get(genre.trim());
         }
-
         return totalPoints;
     }
 }
