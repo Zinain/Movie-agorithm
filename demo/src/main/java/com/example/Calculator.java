@@ -1,10 +1,29 @@
-package src;
+package com.example;
 
 import java.util.HashMap;
+
+import weka.classifiers.trees.J48;
+import weka.core.Instances;
+import weka.core.converters.ConverterUtils.DataSource;
 
 public class Calculator {
 
     public static HashMap<String, Double> genreMap = new HashMap<>();
+
+    private J48 tree;
+
+    public void trainModel() throws Exception {
+        DataSource source = new DataSource("movies.csv");
+        Instances data = source.getDataSet();
+
+        if (data.classIndex() == -1)
+            data.setClassIndex(data.numAttributes() - 1); // last column is class
+
+        tree = new J48(); // Decision Tree
+        tree.buildClassifier(data);
+
+        System.out.println(tree); // Print the tree
+    }
 
     public Calculator(){
         genreMap.put("Horror", (double) 0);
