@@ -3,12 +3,14 @@ package com.example;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
-import java.util.HashMap;
+import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.List;
+import java.util.stream.Collectors;
 
 public class Reader {
 
-    public static HashMap<String, Double> calcMap = new HashMap<>();
+    static List<Movie> movies = new ArrayList<>();
 
     /*Reads and splits words into a 2d array of lines and words */
     public static void read(String filePath) throws IOException{
@@ -19,15 +21,37 @@ public class Reader {
 
             String line = lines.get(i).trim();
 
-            calcMap.put(line.split(",")[0], Calculator.calculate(line.split(",")[1],line.split(",")[2],line.split(",")[3]));
+            movies.add(Calculator.calculate(line));
             
         }
+    }
+
+    static Movie findMovie(String name) {
+        for (Movie m : movies) {
+            if (m.name.equalsIgnoreCase(name)) return m;
+        }
+        // If not found, try fetching from API
+        Movie fetched = Calculator.fetchMovie(name);
+        if (fetched != null) {
+            movies.add(fetched);
+            return fetched;
+        }
+    return null;
+    }
+
+    static List<Movie> recommend(Movie baseMovie, int k) {
+        double[] baseVec = baseMovie.toVector();
+        return movies.stream()
+                .filter(m -> !m.name.equalsIgnoreCase(baseMovie.name))
+                .sorted(Comparator.comparingDouble(m -> Calculator.distance(baseVec, m.toVector())))
+                .limit(k)
+                .collect(Collectors.toList());
     }
     
     /*Prints the moviesArray for debugging purposes */
     public static void printMoviesArray() {
-        for (String name : calcMap.keySet()){
-            System.out.println(name + " - " + calcMap.get(name));
+        for (Movie m : movies){
+            System.out.println(m.name + " " + m.genreNum + " " + m.budget);
         }
     }
 }

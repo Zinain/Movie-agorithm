@@ -1,100 +1,109 @@
-The Shawshank Redemption, Drama, 9.3, $25M  
-The Godfather, Crime, 9.2, $6M  
-The Dark Knight, Action, 9.0, $185M  
-Pulp Fiction, Crime, 8.9, $8M  
-Schindler's List, History, 9.0, $22M  
-Inception, SciFi, 8.8, $160M  
-Fight Club, Drama, 8.8, $63M  
-Forrest Gump, Comedy, 8.8, $55M  
-The Matrix, SciFi, 8.7, $63M  
-The Lord of the Rings: Return of the King, Fantasy, 9.0, $94M  
-Interstellar, SciFi, 8.6, $165M  
-Se7en, Thriller, 8.6, $33M  
-Gladiator, Action, 8.5, $103M  
-The Silence of the Lambs, Thriller, 8.6, $19M  
-Saving Private Ryan, War, 8.6, $70M  
-The Green Mile, Drama, 8.6, $60M  
-The Prestige, Mystery, 8.5, $40M  
-Whiplash, Drama, 8.5, $3.3M  
-The Departed, Crime, 8.5, $90M  
-Parasite, Thriller, 8.6, $11M  
-Django Unchained, Western, 8.5, $100M  
-Joker, Drama, 8.4, $55M  
-Avengers: Endgame, Action, 8.4, $356M  
-WALL·E, Animation, 8.4, $180M  
-The Lion King, Animation, 8.5, $45M  
-Spirited Away, Animation, 8.6, $19M  
-Goodfellas, Crime, 8.7, $25M  
-Braveheart, History, 8.3, $72M  
-Titanic, Romance, 7.9, $200M  
-Black Swan, Thriller, 8.0, $13M  
-A Beautiful Mind, Biography, 8.2, $58M  
-The Revenant, Adventure, 8.0, $135M  
-Mad Max: Fury Road, Action, 8.1, $150M  
-Inglourious Basterds, War, 8.3, $70M  
-La La Land, Musical, 8.0, $30M  
-Her, Romance, 8.0, $23M  
-The Wolf of Wall Street, Biography, 8.2, $100M  
-The Big Short, Biography, 7.8, $50M  
-The Social Network, Drama, 7.7, $40M  
-Gone Girl, Mystery, 8.1, $61M  
-Toy Story, Animation, 8.3, $30M  
-Finding Nemo, Animation, 8.2, $94M  
-Inside Out, Animation, 8.1, $175M  
-Up, Animation, 8.3, $175M  
-Coco, Animation, 8.4, $175M  
-The Grand Budapest Hotel, Comedy, 8.1, $25M  
-Birdman, Comedy, 7.7, $18M  
-Blade Runner 2049, SciFi, 8.0, $150M  
-Arrival, SciFi, 7.9, $47M  
-Ex Machina, SciFi, 7.7, $15M  
-Logan, Action, 8.1, $97M  
-Deadpool, Action, 8.0, $58M  
-Iron Man, Action, 7.9, $140M  
-Captain America: Civil War, Action, 7.8, $250M  
-Doctor Strange, Fantasy, 7.5, $165M  
-Guardians of the Galaxy, SciFi, 8.0, $170M  
-Thor: Ragnarok, Fantasy, 7.9, $180M  
-The Avengers, Action, 8.0, $220M  
-The Batman, Action, 7.8, $185M  
-Tenet, SciFi, 7.3, $200M  
-The Irishman, Crime, 7.8, $159M  
-Knives Out, Mystery, 7.9, $40M  
-Glass Onion, Mystery, 7.2, $40M  
-The Menu, Horror, 7.2, $30M  
-Get Out, Horror, 7.7, $4.5M  
-Nope, Horror, 6.9, $68M  
-Us, Horror, 6.8, $20M  
-Midsommar, Horror, 7.1, $9M  
-The Lighthouse, Horror, 7.4, $11M  
-The Conjuring, Horror, 7.5, $20M  
-It, Horror, 7.3, $35M  
-It Chapter Two, Horror, 6.5, $79M  
-The Babadook, Horror, 6.8, $2M  
-The Witch, Horror, 6.9, $4M  
-Shutter Island, Thriller, 8.2, $80M  
-Prisoners, Thriller, 8.1, $46M  
-Nightcrawler, Thriller, 7.8, $8.5M  
-Heat, Crime, 8.3, $60M  
-American Psycho, Thriller, 7.6, $7M  
-The Truman Show, Drama, 8.2, $60M  
-Requiem for a Dream, Drama, 8.3, $4.5M  
-The Pianist, Biography, 8.5, $35M  
-The Theory of Everything, Biography, 7.7, $15M  
-Bohemian Rhapsody, Biography, 7.9, $55M  
-Rocketman, Biography, 7.3, $40M  
-The Imitation Game, Biography, 8.0, $14M  
-1917, War, 8.3, $95M  
-Dunkirk, War, 7.9, $100M  
-Hacksaw Ridge, War, 8.1, $40M  
-The Hurt Locker, War, 7.5, $15M  
-The Last Samurai, Action, 7.8, $140M  
-Troy, Action, 7.3, $175M  
-Snowpiercer, SciFi, 7.1, $40M  
-Oldboy, Thriller, 8.4, $3M  
-Pan's Labyrinth, Fantasy, 8.2, $19M  
-Life of Pi, Adventure, 7.9, $120M  
-Slumdog Millionaire, Drama, 8.0, $15M  
-The Curious Case of Benjamin Button, Fantasy, 7.8, $167M  
-Cast Away, Drama, 7.8, $90M  
-The Notebook, Romance, 7.8, $29M
+The Shawshank Redemption, Drama, 9.3, $28.7M
+The Godfather, Crime, 9.2, $243.9M
+The Dark Knight, Action, 9.0, $1006M
+Pulp Fiction, Crime, 8.9, $213.9M
+Schindler's List, History, 9.0, $322.2M
+Inception, SciFi, 8.8, $839.9M
+Fight Club, Drama, 8.8, $101.2M
+Forrest Gump, Comedy, 8.8, $678.2M
+The Matrix, SciFi, 8.7, $466.3M
+The Lord of the Rings: Return of the King, Fantasy, 9.0, $1155M
+Interstellar, SciFi, 8.6, $683.8M
+Se7en, Thriller, 8.6, $327.3M
+Gladiator, Action, 8.5, $465.4M
+The Silence of the Lambs, Thriller, 8.6, $272.7M
+Saving Private Ryan, War, 8.6, $481.8M
+The Green Mile, Drama, 8.6, $286.8M
+The Prestige, Mystery, 8.5, $109.7M
+Whiplash, Drama, 8.5, $49M
+The Departed, Crime, 8.5, $291.5M
+Parasite, Thriller, 8.6, $258.8M
+Django Unchained, Western, 8.5, $425.4M
+Joker, Drama, 8.4, $1074M
+Avengers: Endgame, Action, 8.4, $2798M
+WALL·E, Animation, 8.4, $533.3M
+The Lion King, Animation, 8.5, $968.5M
+Spirited Away, Animation, 8.6, $395.5M
+Goodfellas, Crime, 8.7, $468.2M
+Braveheart, History, 8.3, $377.6M
+Titanic, Romance, 7.9, $2202M
+Black Swan, Thriller, 8.0, $329.4M
+A Beautiful Mind, Biography, 8.2, $313.5M
+The Revenant, Adventure, 8.0, $533M
+Mad Max: Fury Road, Action, 8.1, $378.9M
+Inglourious Basterds, War, 8.3, $321.5M
+La La Land, Musical, 8.0, $447.4M
+Her, Romance, 8.0, $47.4M
+The Wolf of Wall Street, Biography, 8.2, $392M
+The Big Short, Biography, 7.8, $133.4M
+The Social Network, Drama, 7.7, $224.9M
+Gone Girl, Mystery, 8.1, $369.3M
+Toy Story, Animation, 8.3, $373.5M
+Finding Nemo, Animation, 8.2, $940.3M
+Inside Out, Animation, 8.1, $858.8M
+Up, Animation, 8.3, $735.1M
+Coco, Animation, 8.4, $807.1M
+The Grand Budapest Hotel, Comedy, 8.1, $174.8M
+Birdman, Comedy, 7.7, $103.2M
+Blade Runner 2049, SciFi, 8.0, $267.8M
+Arrival, SciFi, 7.9, $203.4M
+Ex Machina, SciFi, 7.7, $36.9M
+Logan, Action, 8.1, $619.2M
+Deadpool, Action, 8.0, $783.1M
+Iron Man, Action, 7.9, $585.2M
+Captain America: Civil War, Action, 7.8, $1153M
+Doctor Strange, Fantasy, 7.5, $677.8M
+Guardians of the Galaxy, SciFi, 8.0, $773.3M
+Thor: Ragnarok, Fantasy, 7.9, $854M
+The Avengers, Action, 8.0, $1519M
+The Batman, Action, 7.8, $771.3M
+Tenet, SciFi, 7.3, $363.7M
+The Irishman, Crime, 7.8, $8M
+Knives Out, Mystery, 7.9, $311.4M
+Glass Onion, Mystery, 7.2, $15M
+The Menu, Horror, 7.2, $50.9M
+Get Out, Horror, 7.7, $255.4M
+Nope, Horror, 6.9, $171.5M
+Us, Horror, 6.8, $256.3M
+Midsommar, Horror, 7.1, $47.8M
+The Lighthouse, Horror, 7.4, $18M
+The Conjuring, Horror, 7.5, $319.5M
+It, Horror, 7.3, $701.8M
+It Chapter Two, Horror, 6.5, $473.1M
+The Babadook, Horror, 6.8, $10.8M
+The Witch, Horror, 6.9, $40.4M
+Shutter Island, Thriller, 8.2, $294.8M
+Prisoners, Thriller, 8.1, $122.1M
+Nightcrawler, Thriller, 7.8, $50.3M
+Heat, Crime, 8.3, $187.4M
+American Psycho, Thriller, 7.6, $34.3M
+The Truman Show, Drama, 8.2, $264.1M
+Requiem for a Dream, Drama, 8.3, $7.4M
+The Pianist, Biography, 8.5, $120.1M
+The Theory of Everything, Biography, 7.7, $123.7M
+Bohemian Rhapsody, Biography, 7.9, $903.7M
+Rocketman, Biography, 7.3, $201.6M
+The Imitation Game, Biography, 8.0, $233.6M
+1917, War, 8.3, $384.9M
+Dunkirk, War, 7.9, $526.9M
+Hacksaw Ridge, War, 8.1, $180.9M
+The Hurt Locker, War, 7.5, $49.2M
+The Last Samurai, Action, 7.8, $456.8M
+Troy, Action, 7.3, $497.4M
+Snowpiercer, SciFi, 7.1, $87.1M
+Oldboy, Thriller, 8.4, $6.8M
+Pan's Labyrinth, Fantasy, 8.2, $83.3M
+Life of Pi, Adventure, 7.9, $609M
+Slumdog Millionaire, Drama, 8.0, $378.1M
+The Curious Case of Benjamin Button, Fantasy, 7.8, $335.8M
+Cast Away, Drama, 7.8, $429.6M
+The Notebook, Romance, 7.8, $115.6M
+Batman, Action, 7.5, $251.4M
+The Dark Knight, Action, 9.0, $535.0M
+Airplane!, Comedy, 7.7, $83.5M
+The Neon Demon, Horror, 6.1, $1.3M
+The Room, Drama, 3.6, $0.5M
+Divergent, Action, 6.6, $150.9M
+Insurgent, Action, 6.2, $130.2M
+The Hunger Games, Action, 7.2, $408.0M
+The Green Elephant, Comedy, 5.3, $0.1M
