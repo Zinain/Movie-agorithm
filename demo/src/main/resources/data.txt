@@ -106,4 +106,4 @@ The Room, Drama, 3.6, $0.5M
 Divergent, Action, 6.6, $150.9M
 Insurgent, Action, 6.2, $130.2M
 The Hunger Games, Action, 7.2, $408.0M
-The Green Elephant, Comedy, 5.3, $0.1M
+Lock, Stock and Two Smoking Barrels, Comedy, 8.1, $3.8M
