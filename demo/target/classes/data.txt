@@ -98,12 +98,4 @@ Slumdog Millionaire, Drama, 8.0, $378.1M
 The Curious Case of Benjamin Button, Fantasy, 7.8, $335.8M
 Cast Away, Drama, 7.8, $429.6M
 The Notebook, Romance, 7.8, $115.6M
-Batman, Action, 7.5, $251.4M
-The Dark Knight, Action, 9.0, $535.0M
-Airplane!, Comedy, 7.7, $83.5M
-The Neon Demon, Horror, 6.1, $1.3M
-The Room, Drama, 3.6, $0.5M
-Divergent, Action, 6.6, $150.9M
-Insurgent, Action, 6.2, $130.2M
-The Hunger Games, Action, 7.2, $408.0M
-Lock, Stock and Two Smoking Barrels, Comedy, 8.1, $3.8M
+
